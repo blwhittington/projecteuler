@@ -1,6 +1,2 @@
-#projecteuler1
-int tal=0;
-for (int num=0;num<1000;num++) {
-if(num%3==0||num%5==0){
-tal+=num;}}
-System.out.println(tal);
+Completed Project Euler Challanges
+<s>add multiples of 3 and 5 between one and one-thousand</s>
