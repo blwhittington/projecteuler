@@ -16,7 +16,7 @@ public class javaCup{
         int root = 1;
         int counter = 1;
         int iterator = 1;
-        if ((z & 1) == 1){
+        if (z % 2 != 0){
             for (int i = z;i>2;i--){
                 if(z%i== 0){
                     iterator = i;
@@ -30,7 +30,7 @@ public class javaCup{
                 counter +=1;
             }
         }
-        if ((z & 0) == 0){
+        if (z % 2 == 0){
             while(Math.pow(2,counter)<=z){
                 if(Math.pow(2,counter)==z){
                     root = 2;
