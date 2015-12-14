@@ -39,7 +39,6 @@ public class javaCup{
                 counter += 1;
             }
         }
-        System.out.println(z + " " + root);
         return root;
     }
 
