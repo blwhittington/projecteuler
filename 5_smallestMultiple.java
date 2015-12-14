@@ -17,8 +17,8 @@ public class javaCup{
         int counter = 1;
         int iterator = 1;
         if ((z & 1) == 1){
-            for (int i =z;i>2;i--){
-                if(z%i==0){
+            for (int i = z;i>2;i--){
+                if(z%i== 0){
                     iterator = i;
                 }
             }
@@ -36,7 +36,7 @@ public class javaCup{
                     root = 2;
                     break;
                 }
-                counter +=1;
+                counter += 1;
             }
         }
         System.out.println(z + " " + root);
@@ -47,7 +47,7 @@ public class javaCup{
         int upperLimit = 20;
         int[] range = new int[upperLimit];
         double primeProductTally = 1;
-        double compositeTally =1;
+        double compositeTally = 1;
 
         for(int i=upperLimit;i>1;i--){
             range[i-1]=i;
