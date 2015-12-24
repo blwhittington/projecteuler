@@ -5,3 +5,4 @@
 <s>Problem #4</s> return largest palindrome made from the product of two 3-digit numbers</br>
 <s>Problem #5</s> return smallest number divisible by integers 1-20</br>
 <s>Problem #7</s> return the 10,001st prime number</br>
+<s>Problem #7</s> return the product of the highest 13-digit series in 1,000-digit number</br>
