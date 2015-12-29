@@ -6,3 +6,4 @@
 <s>Problem #5</s> return smallest number divisible by integers 1-20</br>
 <s>Problem #7</s> return the 10,001st prime number</br>
 <s>Problem #8</s> return the product of the highest 13-digit series in a 1,000-digit number</br>
+<s>Problem #10</s> sum the all primes below 2,000,000</br>
