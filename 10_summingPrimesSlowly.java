@@ -21,6 +21,5 @@ public class javaCup{
         }
         
         System.out.println(total);
-
     }
 }
