@@ -12,7 +12,7 @@ public class javaCup{
         return prime;
     }
 
-    public static int rootFinder(int z){ //return root of composite number 
+    public static int rootFinder(int z){
         int root = 1;
         int counter = 1;
         int iterator = 1;
@@ -58,7 +58,7 @@ public class javaCup{
             }
         }
 
-        System.out.println(primeProductTally*compositeTally); //multiply prime factors of each number 1-20
+        System.out.println(primeProductTally*compositeTally);
 
     }
 }
